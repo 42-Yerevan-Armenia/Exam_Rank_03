@@ -38,8 +38,8 @@ Allow photo check
 
 ### Question 1
 
-- get_next_line.c
+- [get_next_line.c](https://github.com/42-Yerevan-Armenia/Exam_Rank_03/blob/master/gnl.c) 
 
 ### Question 2
 
-- ft_printf.c
+- [printf.c](https://github.com/42-Yerevan-Armenia/Exam_Rank_03/blob/master/printf.c)
